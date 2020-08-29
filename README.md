@@ -15,11 +15,11 @@ Type all or part of a breed of dog into the box, and click the search button! Up
 
 
 ## Deployed Application
-https://gussell87.github.io/doggo/
+https://Andrew836-dev.github.io/doggo/
 
 
 ## Github Repository
-https://github.com/gussell87/doggo
+https://github.com/gussell87/Doggo
 
 
 ## Built With
